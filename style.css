@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(77, 70, 70);
+}
+h1{
+    color: cornsilk;
+    margin-left:630px;
+    margin-top: 30px;
+}
+
+.fields{
+    margin-left:650px;
+    margin-top: 30px;
+}
+#circle {
+    font-size: 36pt;
+    background-color: rgb(8, 8, 8);
+    color: rgb(248, 247, 247);
+    position: absolute;
+    margin-left:590px;
+    margin-top: 30px;
+    height: 340px;
+    width: 340px;
+    border-radius: 50%;
+    display: inline-block;
+  }
